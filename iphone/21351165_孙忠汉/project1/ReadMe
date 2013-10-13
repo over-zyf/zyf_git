@@ -1,0 +1,12 @@
+(1)mycalendar_自写函数文件夹结构
+｜
+ ————	calendar.h    (自定义类)
+ ————	calendar.m
+ ————	comm.h       （自定义类：通用函数）
+ ————	comm.m
+ ————main.m	    （主函数）
+
+（2）mycalendar_调用系统nscalendar文件结构
+｜
+｜——main.m    (主要条用系统的nscalendar函数)
+

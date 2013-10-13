@@ -1,0 +1,1 @@
+makefile里面的run是正常的情况，error里面是一些错误的情况，clean删除main。

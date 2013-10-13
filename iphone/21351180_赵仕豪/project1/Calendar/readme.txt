@@ -1,0 +1,1 @@
+使用make 在command line下运行即可。
