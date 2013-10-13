@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'zyf_cal' target in the 'zyf_cal' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
